@@ -3,7 +3,7 @@
 #### Example
 
 ```bash
-gralde compileKotlin
+gradle compileKotlin
 gradle run
 gradle clean
 ```
